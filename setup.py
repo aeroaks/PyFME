@@ -25,6 +25,7 @@ setup(
         "numpy",
         "scipy",
         "matplotlib",
+        "plotly"
     ],
     tests_require=[
         "pytest"
